@@ -15,6 +15,7 @@ configuration, and database interaction basics.
 ✅ Delete country data
 
 🛠️ Technologies Used
+
 Java
 
 Hibernate ORM
@@ -26,10 +27,9 @@ Maven
 🚀 Setup Instructions
 Clone the repository
 
-bash
-Copy
-Edit
+
 git clone https://github.com/Samarth-Thite/hibernate-crud.git
+
 Import as Maven Project in Eclipse or IntelliJ.
 
 Configure database credentials in hibernate.cfg.xml with your PostgreSQL username and password.
@@ -37,9 +37,8 @@ Configure database credentials in hibernate.cfg.xml with your PostgreSQL usernam
 Run MainApp.java to perform all CRUD operations.
 
 📂 Project Structure
-css
-Copy
-Edit
+
+
 hibernate-crud/
 ├── src/
 │   ├── main/
@@ -52,6 +51,7 @@ hibernate-crud/
 
 
 👤 Contact
+
 Name: Samarth Thite
 
 Email: samarththite1010@gmail.com
