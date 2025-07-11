@@ -1,6 +1,9 @@
 Hibernate CRUD Project
-📄 Description
-A simple Java Maven project demonstrating CRUD operations using Hibernate with PostgreSQL. Ideal for learning Hibernate integration, configuration, and database interaction basics.
+
+
+A simple Java Maven project demonstrating CRUD operations using Hibernate with PostgreSQL. 
+Ideal for learning Hibernate integration,
+configuration, and database interaction basics.
 
 ✨ Features
 ✅ Insert region and country records
