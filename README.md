@@ -59,6 +59,8 @@ Email: samarththite1010@gmail.com
 GitHub: Samarth-Thite
 
  Output:
+ ![Output Image](Image/output.png)
+
  
 
  
